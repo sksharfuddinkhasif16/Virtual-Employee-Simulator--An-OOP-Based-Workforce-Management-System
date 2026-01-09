@@ -47,3 +47,17 @@ Managers can create employees, perform actions like work, break, training, and r
 ---
 
 ## 🏗️ Project Structure
+com.simulator.core         → Employee classes com.simulator.manager      → Employee manager logic com.simulator.sim          → Simulation thread com.simulator.exceptions   → Custom exceptions com.simulator.persistence  → File handling com.simulator.app          → Main application
+Copy code
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language:** Java  
+- **JDK:** 17+  
+- **IDE:** VS Code / IntelliJ IDEA  
+- **Data Structures:** HashMap  
+- **Concurrency:** Java Threads  
+
+---
